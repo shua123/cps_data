@@ -1,0 +1,4 @@
+
+City-wide List of Scheduled LSC Meetings for 2012-2013 School Year.csv - Data from Chicago Public Schools central database of Local School Council meeting schedules for the 2012-2013 school year. Data may not reflect meeting date & time changes that occured during the school year. Data acquired through email on 6/13/2013 from Chicago Public Schools Office of Local School Council Relations.
+
+LSC ScheduledMeetings 2012 to 2014.xml - Data from Chicago Public Schools central database of Local School Council meeting schedules for the 2012-2013 and 2013-2014 school years. Data may not reflect meeting date & time changes that occured during the school year. Data acquired through email on 6/17/2014 from Chicago Public Schools Office of Local School Council Relations.
